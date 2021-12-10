@@ -1,0 +1,24 @@
+    Body {
+        color: black; 
+        background-color: rgb(165, 190, 212);}
+
+
+    h4 {
+        font-size: 26px;
+        font-weight: normal; } 
+
+            
+    .links {
+        font-style: italic;
+        text-decoration: underline;
+        font-size: 24px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .looks {
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    
+
+
