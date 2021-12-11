@@ -11,7 +11,7 @@ body{
 
 
 .resize{ 
-  height: 400px;
+  height: 250px;
  
 }
 
@@ -19,7 +19,7 @@ body{
           top: 5px;
           left: 5px;
           Right: 5px;
-          Height: 100px; 
+          Height: 200px; 
           z-index: 2;
           border-bottom:solid 1px slategray;
       }
