@@ -11,21 +11,7 @@ body{
 
 
 
-    
 
-
-
-
-
-
-    .body{
-      background-color:lightgoldenrodyellow;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      } 
-      .common { 
-          /*background-color: darksalmon;
-          border:solid 2px whitesmoke;*/
-          position: absolute }
       .header { 
           top: 5px;
           left: 5px;
@@ -34,16 +20,7 @@ body{
           z-index: 2;
           border-bottom:solid 1px slategray;
       }
-      .leftmenu {
-          top: 114px;
-          left: 5px;
-          width: 100px;
-          bottom: 64px; 
-          z-index: 1;
-          padding-top: 45px;
-          border-right: solid 1px slategray;
-          padding-right: 8px;
-      }
+      
       .mainbody { 
           top: 114px;
           bottom: 64px;
@@ -52,14 +29,7 @@ body{
           padding-right: 5px;
           padding-left: 5px;
       }
-      .rightmenu { 
-          top: 114px;
-          bottom: 64px;
-          Right: 5px;
-          width: 100px; 
-          border-left: solid 1px slategray;
-          padding-left: 5px; 
-      }
+
       .footer { 
           Bottom: 5px;
           Height: 10px; 
@@ -70,8 +40,4 @@ body{
           font-family: monospace;
           position: fixed;  
       }
-      .subheader { 
-          float: right;  
-      }
-      
       
