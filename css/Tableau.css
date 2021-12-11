@@ -9,6 +9,10 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     } 
 
+.textsizing {
+  font-size: 20px;
+  font-weight: normal
+}
 
 .resize{ 
   height: 250px;
