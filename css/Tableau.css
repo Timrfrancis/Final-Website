@@ -1,7 +1,7 @@
 
 .common {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 20px;
     } 
 
 body{
@@ -32,7 +32,7 @@ body{
           Height: 10px; 
           left: 5px;
           right: 5px; 
-          font-size: 9px;
+          font-size: 15px;
           text-align: center;
           font-family: monospace;
           position: fixed;  
