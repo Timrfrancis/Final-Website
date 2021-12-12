@@ -16,7 +16,7 @@ body{
 
 .resize{ 
   height: 250px;
- 
+ width: 300px;
 }
 
       .header { 
@@ -24,8 +24,7 @@ body{
           left: 5px;
           Right: 5px;
           Height: 150px; 
-          z-index: 2;
-          border-bottom:solid 1px slategray;
+          border-bottom:solid 2px slategray;
       }
       
       .mainbody { 
@@ -39,7 +38,7 @@ body{
 
       .footer { 
           Bottom: 5px;
-          Height: 40px; 
+          Height: 140px; 
           left: 5px;
           right: 5px; 
           font-size: 9px;
