@@ -1,7 +1,7 @@
 
 .common {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 20px;
     } 
 
 body{
@@ -18,9 +18,10 @@ body{
 
 .stuff{ 
   padding-top: 10px;
+  padding-bottom: 30px;
 }
 .textsizing{
-  font-size: 45px;
+  font-size: 35px;
   text-decoration: underline;
 }
 
@@ -39,7 +40,7 @@ body{
           right: 114px; 
           padding-right: 5px;
           padding-left: 5px;
-          padding-bottom: 10px;
+          padding-bottom: 45px;
       }
 
       .footer { 
