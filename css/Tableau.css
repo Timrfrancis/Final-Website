@@ -22,6 +22,10 @@ body{
 .stuff{ 
   padding-top: 10px;
 }
+.textsizing{
+  font-size: 45;
+  text-decoration: underline;
+}
 
       .header { 
           top: 5px;
@@ -45,7 +49,7 @@ body{
           Height: 60px; 
           left: 5px;
           right: 5px; 
-          font-size: 9px;
+          font-size: 15px;
           text-align: center;
           font-family: monospace;
           position: fixed;  
