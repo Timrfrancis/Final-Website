@@ -9,21 +9,18 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     } 
 
-.textsizing {
-  font-size: 10px;
-  font-weight: normal
-}
+
 
 .resize{ 
-  height: 600px;
-  width: 1000px;
+  height: 800px;
+  width: 1200px;
 }
 
 .stuff{ 
   padding-top: 10px;
 }
 .textsizing{
-  font-size: 75px;
+  font-size: 45px;
   text-decoration: underline;
 }
 
