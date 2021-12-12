@@ -19,6 +19,10 @@ body{
  width: 800px;
 }
 
+.stuff{ 
+  padding-top: 10px;
+}
+
       .header { 
           top: 5px;
           left: 5px;
@@ -38,7 +42,7 @@ body{
 
       .footer { 
           Bottom: 5px;
-          Height: 140px; 
+          Height: 60px; 
           left: 5px;
           right: 5px; 
           font-size: 9px;
