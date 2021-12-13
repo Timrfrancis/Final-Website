@@ -2,7 +2,7 @@
 .common {
   font-weight: bold;
   font-size: 20px;
-  position: absolute ;
+  position: absolute;
     } 
 
 body{
@@ -15,7 +15,6 @@ body{
 .resize{ 
   height: 650px;
   width: 1000px;
-  align-items: center;
 }
 
 .stuff{ 
@@ -31,13 +30,13 @@ body{
           top: 5px;
           left: 5px;
           Right: 5px;
-          Height: 130px; 
+          Height: 150px; 
           border-bottom:solid 2px slategray;
       }
       
       .mainbody { 
           top: 300px;
-          Bottom: 10px;
+          bottom: 65px;
           left: 114px;
           right: 114px; 
 
