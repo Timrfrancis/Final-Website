@@ -1,59 +1,48 @@
-
-      .mainbody{ 
-        top:114px;
-        top:300px;
-        bottom:5px;
-        left:114px;
-        right:114px; 
-      }
-.common{
-font-weight:bold;
-font-size:20px;
-  } 
-
+.common {
+  font-weight: bold;
+  font-size: 20px;
+    } 
 body{
-  background-color:lightgoldenrodyellow;
-  font-family:Verdana,Geneva,Tahoma,sans-serif;
-  } 
-
+    background-color:lightgoldenrodyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    } 
 .resize{ 
-height:800px;
-width:1200px;
+  height: 800px;
+  width: 1200px;
 }
-
 .stuff{ 
-padding-top:10px;
-padding-bottom:30px;
+  padding-top: 10px;
+  padding-bottom: 30px;
 }
 .textsizing{
-font-size:35px;
-text-decoration:underline;
+  font-size: 35px;
+  text-decoration: underline;
 }
+      .header { 
+          top: 5px;
+          left: 5px;
+          Right: 5px;
+          Height: 150px; 
+          border-bottom:solid 2px slategray;
+      }
+      
+      .mainbody { 
+          top: 114px;
+          bottom: 64px;
+          left: 114px;
+          right: 114px; 
+          padding-right: 5px;
+          padding-left: 5px;
+          padding-bottom: 45px;
+          border-bottom:solid 2px slategray;
+      }
 
-    .header{ 
-        top:5px;
-        left:5px;
-        Right:5px;
-        Height:150px; 
-        border-bottom:solid 2pxslategray;
-        padding-right:5px;
-        padding-left:5px;
-        padding-bottom:45px;
-        border-bottom:solid 2pxslategray;
-    }
-
-    .footer{ 
-        Bottom:5px;
-        Height:60px; 
-        left:5px;
-        right:5px; 
-        font-size:15px;
-        text-align:center;
-        font-family:monospace;
-        position:fixed;  
-     
-        
-    }
-
-
-
+      .footer { 
+          Bottom: 5px;
+          Height: 60px; 
+          left: 5px;
+          right: 5px; 
+          font-size: 15px;
+          text-align: center;
+          font-family: monospace;
+          position: fixed;  
