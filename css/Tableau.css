@@ -1,6 +1,7 @@
 .common {
   font-weight: bold;
   font-size: 20px;
+  position: ;
     } 
 body{
     background-color:lightgoldenrodyellow;
@@ -45,4 +46,4 @@ body{
           font-size: 15px;
           text-align: center;
           font-family: monospace;
-          position: fixed;  
+          position: fixed;  }
